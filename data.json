@@ -1,0 +1,175 @@
+{
+  "alarms": [],
+  "client": "glass-court",
+  "currency": "USD",
+  "daily": [],
+  "display_name": "Glass Court Athletic Club",
+  "generated_at": "2026-09-30T02:46:31.915003-07:00",
+  "headline": [
+    {
+      "format": "money",
+      "key": "spend",
+      "label": "Ad spend",
+      "prior": 99.14,
+      "trend": [
+        247.87,
+        225.36,
+        189.78,
+        0,
+        0,
+        64.0,
+        99.14,
+        184.37
+      ],
+      "value": 184.37
+    },
+    {
+      "format": "int",
+      "key": "crm_leads",
+      "label": "Leads (CRM)",
+      "prior": 1,
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        25
+      ],
+      "value": 25
+    },
+    {
+      "format": "money",
+      "key": "cpl",
+      "label": "Cost per lead",
+      "prior": 99.14,
+      "trend": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        99.14,
+        7.37
+      ],
+      "value": 7.37
+    }
+  ],
+  "insight": null,
+  "labels": {},
+  "metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": null,
+    "cpl": 7.37,
+    "crm_leads": 25,
+    "crm_leads_raw": 25,
+    "ctr": 0.032075,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 6516,
+    "landing_page_views": 37,
+    "link_clicks": 209,
+    "messages": 0,
+    "meta_spend": 184.37,
+    "pixel_leads": 25,
+    "reach": 3977,
+    "spend": 184.37,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "segment_label": "segment",
+  "segments": [],
+  "top_ads": [
+    {
+      "ad_name": "Flex- Free Tour- Book Now",
+      "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 25,
+      "spend": 178.48
+    },
+    {
+      "ad_name": "Promoción del sitio web http://www.glasscourt.com/labor-day",
+      "campaign_name": "[4/9/2026] Promoción de http://www.glasscourt.com/labor-day",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 0,
+      "spend": 5.89
+    }
+  ],
+  "unavailable": [
+    "tiktok_spend",
+    "tiktok_leads",
+    "google_spend",
+    "google_conversions"
+  ],
+  "verification": {
+    "checks": [
+      {
+        "detail": "weekly window has 7 day(s)",
+        "name": "window_span",
+        "ok": true
+      },
+      {
+        "detail": "meta 184.37, google 0.00, tiktok 0.00, total 184.37",
+        "name": "spend",
+        "ok": true
+      },
+      {
+        "detail": "non-spend aggregate metrics match raw rows",
+        "name": "raw_metrics",
+        "ok": true
+      },
+      {
+        "detail": "raw 25, counted 25",
+        "name": "crm_leads",
+        "ok": true
+      },
+      {
+        "detail": "expected 7.37, got 7.37",
+        "name": "cpl",
+        "ok": true
+      },
+      {
+        "detail": "segment totals do not exceed report totals",
+        "name": "segments_additive",
+        "ok": true
+      },
+      {
+        "detail": "segments cover report totals",
+        "name": "segments_coverage",
+        "ok": true
+      },
+      {
+        "detail": "all headline trends have eight matching points",
+        "name": "headline_trends",
+        "ok": true
+      },
+      {
+        "detail": "raw rows by date: 2026-09-18=6, 2026-09-19=4, 2026-09-20=3, 2026-09-21=1, 2026-09-22=6, 2026-09-23=2, 2026-09-24=5; report has no daily audit rows",
+        "name": "raw_rows_covered",
+        "ok": true
+      },
+      {
+        "detail": "report keys and values match the allowlist",
+        "name": "schema_allowlist",
+        "ok": true
+      },
+      {
+        "detail": "meta pixel leads 25.00, CRM leads 25",
+        "name": "tracking_drift",
+        "ok": true
+      }
+    ],
+    "status": "pass"
+  },
+  "window": {
+    "end": "2026-09-24",
+    "label": "Sep 18 to Sep 24",
+    "start": "2026-09-18"
+  }
+}
