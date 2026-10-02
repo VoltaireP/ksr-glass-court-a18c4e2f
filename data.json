@@ -1,10 +1,55 @@
 {
+  "actions": [
+    "Free tour ad edited and re-approved on Sep 20 (image and text refreshed).",
+    "Labor Day page promotion campaign switched off on Sep 19.",
+    "No budget changes this week."
+  ],
   "alarms": [],
+  "campaigns": [
+    {
+      "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
+      "cost_per_lpv": 59.49,
+      "cost_per_result": 7.14,
+      "cpc": 1.04,
+      "cpm": 30.13,
+      "impressions": 5923,
+      "landing_page_views": 3,
+      "link_clicks": 171,
+      "messages": 0,
+      "pixel_leads": 25,
+      "platform": "Meta",
+      "reach": 3397,
+      "result_type": "Website leads",
+      "results": 25.0,
+      "spend": 178.48,
+      "unique_outbound_clicks": 0,
+      "uo_ctr": null
+    },
+    {
+      "campaign_name": "[4/9/2026] Promoción de http://www.glasscourt.com/labor-day",
+      "cost_per_lpv": 0.17,
+      "cost_per_result": 0.05,
+      "cpc": 0.15,
+      "cpm": 9.93,
+      "impressions": 593,
+      "landing_page_views": 34,
+      "link_clicks": 38,
+      "messages": 0,
+      "pixel_leads": 0,
+      "platform": "Meta",
+      "reach": 580,
+      "result_type": "Video plays",
+      "results": 122.0,
+      "spend": 5.89,
+      "unique_outbound_clicks": 0,
+      "uo_ctr": null
+    }
+  ],
   "client": "glass-court",
   "currency": "USD",
   "daily": [],
   "display_name": "Glass Court Athletic Club",
-  "generated_at": "2026-09-30T02:46:31.915003-07:00",
+  "generated_at": "2026-10-01T22:47:54.055515-07:00",
   "headline": [
     {
       "format": "money",
@@ -60,7 +105,7 @@
   ],
   "insight": null,
   "insights": {
-    "creative": "The free tour offer, told as a long-time Lombard story with the list of pools, courts and classes, is pulling every lead. Next we will test a short walk-through video of the pools and courts and a version aimed at parents around the swim lessons.",
+    "creative": "The free tour ad brought all 25 leads. It is an image that opens 'Lombard families have been walking through our doors for over 40 years. Come see why,' lists the two heated pools, eight racquetball courts, whirlpool and sauna, then offers one free tour, nothing to sign. The Labor Day video, an invite to the pool event, was switched off after no leads. Next we will test a short walk-through video of the pools and courts with the same opening, since what is inside the club is what sells.",
     "doing": "The free tour offer brought in 25 leads this week at $7.37 per lead, up from 1 lead at $99.14 the week before. This was the first full week with the free tour campaign carrying nearly all of the $184.37 spent.",
     "look_into": "All 25 Facebook leads landed in the CRM, so tracking is clean. The thing to check now is how many of the 25 have been called and booked for a tour, since the report does not count tour bookings yet.",
     "next": "Next we will hold the free tour campaign steady for another week and recommend adding budget only if the cost per lead stays close to this week's level. The Labor Day promotion was switched off during the week after spending $5.89 with no leads."
@@ -87,23 +132,52 @@
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
+  "prior_metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": null,
+    "cpl": 99.14,
+    "crm_leads": 1,
+    "crm_leads_raw": 1,
+    "ctr": 0.056435,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 8718,
+    "landing_page_views": 383,
+    "link_clicks": 492,
+    "messages": 0,
+    "meta_spend": 99.14,
+    "pixel_leads": 1,
+    "reach": 6895,
+    "spend": 99.14,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
   "segment_label": "segment",
   "segments": [],
   "top_ads": [
     {
       "ad_name": "Flex- Free Tour- Book Now",
       "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
+      "cost_per_result": 7.14,
       "crm_leads": null,
+      "hook": "Image. 'Lombard families have walked through our doors for over 40 years. Come see why.' Lists pools, courts, sauna. One free tour, nothing to sign.",
+      "link_clicks": 171,
       "messages": 0,
       "pixel_leads": 25,
+      "preview_url": "https://fb.me/22LXeD534Jwa6t7",
       "spend": 178.48
     },
     {
       "ad_name": "Promoción del sitio web http://www.glasscourt.com/labor-day",
       "campaign_name": "[4/9/2026] Promoción de http://www.glasscourt.com/labor-day",
+      "cost_per_result": null,
       "crm_leads": null,
+      "hook": "Video. 'Labor Day is almost here.' Invites people to the pool and the Labor Day event, reserve your spot. Switched off Sep 19.",
+      "link_clicks": 38,
       "messages": 0,
       "pixel_leads": 0,
+      "preview_url": "https://fb.me/2cX5CZ1d4uomFvN",
       "spend": 5.89
     }
   ],
