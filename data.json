@@ -1,46 +1,27 @@
 {
   "actions": [
-    "Free tour ad edited and re-approved on Sep 20 (image and text refreshed).",
-    "Labor Day page promotion campaign switched off on Sep 19.",
-    "No budget changes this week."
+    "Sep 30: the ad area was narrowed from 15 miles to 10 miles around the club in Lombard.",
+    "Sep 30: the ad set was renamed to match the 10 mile area.",
+    "Sep 30: the free tour ad went through Meta's review and was active again the same day."
   ],
   "alarms": [],
   "campaigns": [
     {
       "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
-      "cost_per_lpv": 59.49,
-      "cost_per_result": 7.14,
-      "cpc": 1.04,
-      "cpm": 30.13,
-      "impressions": 5923,
-      "landing_page_views": 3,
-      "link_clicks": 171,
+      "cost_per_lpv": null,
+      "cost_per_result": 8.65,
+      "cpc": 1.12,
+      "cpm": 32.02,
+      "impressions": 5133,
+      "landing_page_views": 0,
+      "link_clicks": 147,
       "messages": 0,
-      "pixel_leads": 25,
+      "pixel_leads": 19,
       "platform": "Meta",
-      "reach": 3397,
+      "reach": 3501,
       "result_type": "Website leads",
-      "results": 25.0,
-      "spend": 178.48,
-      "unique_outbound_clicks": 0,
-      "uo_ctr": null
-    },
-    {
-      "campaign_name": "[4/9/2026] Promoción de http://www.glasscourt.com/labor-day",
-      "cost_per_lpv": 0.17,
-      "cost_per_result": 0.05,
-      "cpc": 0.15,
-      "cpm": 9.93,
-      "impressions": 593,
-      "landing_page_views": 34,
-      "link_clicks": 38,
-      "messages": 0,
-      "pixel_leads": 0,
-      "platform": "Meta",
-      "reach": 580,
-      "result_type": "Video plays",
-      "results": 122.0,
-      "spend": 5.89,
+      "results": 19.0,
+      "spend": 164.35,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     }
@@ -49,69 +30,94 @@
   "currency": "USD",
   "daily": [],
   "display_name": "Glass Court Athletic Club",
-  "generated_at": "2026-10-01T22:47:54.055515-07:00",
+  "generated_at": "2026-10-02T05:16:45.659888-07:00",
   "headline": [
     {
       "format": "money",
       "key": "spend",
       "label": "Ad spend",
-      "prior": 99.14,
+      "prior": 184.37,
       "trend": [
-        247.87,
         225.36,
         189.78,
         0,
         0,
         64.0,
         99.14,
-        184.37
+        184.37,
+        164.35
       ],
-      "value": 184.37
+      "value": 164.35
     },
     {
       "format": "int",
       "key": "crm_leads",
       "label": "Leads (CRM)",
-      "prior": 1,
+      "prior": 25,
       "trend": [
-        0,
         0,
         0,
         0,
         0,
         0,
         1,
-        25
+        25,
+        18
       ],
-      "value": 25
+      "value": 18
     },
     {
       "format": "money",
       "key": "cpl",
       "label": "Cost per lead",
-      "prior": 99.14,
+      "prior": 7.37,
       "trend": [
         null,
         null,
         null,
         null,
         null,
-        null,
         99.14,
-        7.37
+        7.37,
+        9.13
       ],
-      "value": 7.37
+      "value": 9.13
     }
   ],
   "insight": null,
   "insights": {
-    "creative": "The free tour ad brought all 25 leads. It is an image that opens 'Lombard families have been walking through our doors for over 40 years. Come see why,' lists the two heated pools, eight racquetball courts, whirlpool and sauna, then offers one free tour, nothing to sign. The Labor Day video, an invite to the pool event, was switched off after no leads. We recommend testing a short walk-through video of the pools and courts with the same opening, since what is inside the club is what sells.",
-    "doing": "The free tour offer brought in 25 leads this week at $7.37 per lead, up from 1 lead at $99.14 the week before. This was the first full week with the free tour campaign carrying nearly all of the $184.37 spent.",
-    "look_into": "All 25 Facebook leads landed in the CRM, so tracking is clean. The thing to check now is how many of the 25 have been called and booked for a tour, since the report does not count tour bookings yet.",
-    "next": "We recommend holding the free tour campaign steady for another week and adding budget only if the cost per lead stays close to this week's level. The Labor Day promotion was switched off during the week after spending $5.89 with no leads."
+    "creative": "One ad is live, the free tour ad. It opens 'Lombard families have been walking through our doors for over 40 years. Come see why,' lists two heated pools, eight racquetball courts, group fitness, whirlpool and sauna, and offers one free tour: 'No membership required. Nothing to sign.' Meta counted 19 leads from it at $8.65 each. Worth trying a second version that opens with 'No membership required. Nothing to sign,' because with one ad live there is nothing to compare it against.",
+    "doing": "The free tour campaign brought 18 leads into the CRM at $9.13 each, down from 25 leads at $7.37 the week before. Ad spend was $164.35, down from $184.37.",
+    "look_into": "Meta counted 19 leads and the CRM shows 18, so the tracking lines up. The ad area was narrowed from 15 miles to 10 miles around the club on Sep 30, so next week is the first full week on the smaller area and is worth watching.",
+    "next": "We recommend keeping the free tour ad live and unchanged for one full week on the 10 mile area, then comparing lead count and cost per lead against this week before changing anything else."
   },
   "labels": {},
   "metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": null,
+    "cpl": 9.13,
+    "crm_leads": 18,
+    "crm_leads_raw": 18,
+    "ctr": 0.028638,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 5133,
+    "landing_page_views": 0,
+    "link_clicks": 147,
+    "messages": 0,
+    "meta_spend": 164.35,
+    "odoo_leads": 0,
+    "odoo_order_value": 0,
+    "odoo_orders": 0,
+    "odoo_won": 0,
+    "pixel_leads": 19,
+    "reach": 3501,
+    "spend": 164.35,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "prior_metrics": {
     "appointments_booked": 0,
     "appointments_showed": 0,
     "cost_per_message": null,
@@ -126,30 +132,13 @@
     "link_clicks": 209,
     "messages": 0,
     "meta_spend": 184.37,
+    "odoo_leads": 0,
+    "odoo_order_value": 0,
+    "odoo_orders": 0,
+    "odoo_won": 0,
     "pixel_leads": 25,
     "reach": 3977,
     "spend": 184.37,
-    "tiktok_leads": 0,
-    "tiktok_spend": 0
-  },
-  "prior_metrics": {
-    "appointments_booked": 0,
-    "appointments_showed": 0,
-    "cost_per_message": null,
-    "cpl": 99.14,
-    "crm_leads": 1,
-    "crm_leads_raw": 1,
-    "ctr": 0.056435,
-    "google_conversions": 0,
-    "google_spend": 0,
-    "impressions": 8718,
-    "landing_page_views": 383,
-    "link_clicks": 492,
-    "messages": 0,
-    "meta_spend": 99.14,
-    "pixel_leads": 1,
-    "reach": 6895,
-    "spend": 99.14,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
@@ -159,33 +148,25 @@
     {
       "ad_name": "Flex- Free Tour- Book Now",
       "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
-      "cost_per_result": 7.14,
+      "cost_per_result": 8.65,
       "crm_leads": null,
-      "hook": "Image. 'Lombard families have walked through our doors for over 40 years. Come see why.' Lists pools, courts, sauna. One free tour, nothing to sign.",
-      "link_clicks": 171,
+      "hook": "Opens 'Lombard families have been walking through our doors for over 40 years.' Lists pools, courts, sauna. Free tour, no membership required, nothing to sign.",
+      "link_clicks": 147,
       "messages": 0,
-      "pixel_leads": 25,
-      "preview_url": "https://fb.me/22LXeD534Jwa6t7",
-      "spend": 178.48
-    },
-    {
-      "ad_name": "Promoción del sitio web http://www.glasscourt.com/labor-day",
-      "campaign_name": "[4/9/2026] Promoción de http://www.glasscourt.com/labor-day",
-      "cost_per_result": null,
-      "crm_leads": null,
-      "hook": "Video. 'Labor Day is almost here.' Invites people to the pool and the Labor Day event, reserve your spot. Switched off Sep 19.",
-      "link_clicks": 38,
-      "messages": 0,
-      "pixel_leads": 0,
-      "preview_url": "https://fb.me/2cX5CZ1d4uomFvN",
-      "spend": 5.89
+      "pixel_leads": 19,
+      "preview_url": "https://fb.me/1RoGlyo89Hy9CbP",
+      "spend": 164.35
     }
   ],
   "unavailable": [
     "tiktok_spend",
     "tiktok_leads",
     "google_spend",
-    "google_conversions"
+    "google_conversions",
+    "odoo_leads",
+    "odoo_won",
+    "odoo_orders",
+    "odoo_order_value"
   ],
   "verification": {
     "checks": [
@@ -195,7 +176,7 @@
         "ok": true
       },
       {
-        "detail": "meta 184.37, google 0.00, tiktok 0.00, total 184.37",
+        "detail": "meta 164.35, google 0.00, tiktok 0.00, total 164.35",
         "name": "spend",
         "ok": true
       },
@@ -205,12 +186,12 @@
         "ok": true
       },
       {
-        "detail": "raw 25, counted 25",
+        "detail": "raw 18, counted 18",
         "name": "crm_leads",
         "ok": true
       },
       {
-        "detail": "expected 7.37, got 7.37",
+        "detail": "expected 9.13, got 9.13",
         "name": "cpl",
         "ok": true
       },
@@ -225,12 +206,22 @@
         "ok": true
       },
       {
+        "detail": "odoo counts match raw rows",
+        "name": "odoo_rows",
+        "ok": true
+      },
+      {
+        "detail": "campaign rows add up to the platform spend",
+        "name": "campaigns_additive",
+        "ok": true
+      },
+      {
         "detail": "all headline trends have eight matching points",
         "name": "headline_trends",
         "ok": true
       },
       {
-        "detail": "raw rows by date: 2026-09-18=6, 2026-09-19=4, 2026-09-20=3, 2026-09-21=1, 2026-09-22=6, 2026-09-23=2, 2026-09-24=5; report has no daily audit rows",
+        "detail": "raw rows by date: 2026-09-25=2, 2026-09-26=3, 2026-09-27=1, 2026-09-28=7, 2026-09-29=2, 2026-09-30=3, 2026-10-01=1; report has no daily audit rows",
         "name": "raw_rows_covered",
         "ok": true
       },
@@ -240,7 +231,7 @@
         "ok": true
       },
       {
-        "detail": "meta pixel leads 25.00, CRM leads 25",
+        "detail": "meta pixel leads 19.00, CRM leads 18",
         "name": "tracking_drift",
         "ok": true
       }
@@ -248,8 +239,8 @@
     "status": "pass"
   },
   "window": {
-    "end": "2026-09-24",
-    "label": "Sep 18 to Sep 24",
-    "start": "2026-09-18"
+    "end": "2026-10-01",
+    "label": "Sep 25 to Oct 1",
+    "start": "2026-09-25"
   }
 }
