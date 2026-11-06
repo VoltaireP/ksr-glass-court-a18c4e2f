@@ -1,27 +1,28 @@
 {
   "actions": [
-    "Oct 23: launched three new free tour video ads: a long cut, a vertical cut and a second long cut.",
-    "Oct 27: updated the media on four free tour ads; all four passed review and are live.",
-    "Oct 27: turned off the 10.7.26 proving ground free tour ad set."
+    "Nov 4: launched two new free tour control ads; both passed review and are live.",
+    "Nov 4: turned the 10.7.26 proving ground free tour ad set back on and renamed it for the Nov 3 relaunch.",
+    "Nov 4: two older free tour control ads (Control Ad 1 and Control Ad 2) went inactive after an ad review.",
+    "Oct 30: the second long free tour video went inactive after an ad review."
   ],
   "alarms": [],
   "campaigns": [
     {
       "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
-      "cost_per_lpv": 12.7,
-      "cost_per_result": 8.17,
-      "cpc": 1.18,
-      "cpm": 25.91,
-      "impressions": 8824,
-      "landing_page_views": 18,
-      "link_clicks": 193,
+      "cost_per_lpv": 24.19,
+      "cost_per_result": 10.37,
+      "cpc": 1.07,
+      "cpm": 25.15,
+      "impressions": 8656,
+      "landing_page_views": 9,
+      "link_clicks": 203,
       "messages": 0,
-      "pixel_leads": 28,
+      "pixel_leads": 21,
       "platform": "Meta",
-      "reach": 4943,
+      "reach": 5797,
       "result_type": "Website leads",
-      "results": 28.0,
-      "spend": 228.66,
+      "results": 21.0,
+      "spend": 217.67,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     }
@@ -30,92 +31,92 @@
   "currency": "USD",
   "daily": [],
   "display_name": "Glass Court Athletic Club",
-  "generated_at": "2026-10-30T05:17:36.629578-07:00",
+  "generated_at": "2026-11-06T05:17:14.588479-08:00",
   "headline": [
     {
       "format": "money",
       "key": "spend",
       "label": "Ad spend",
-      "prior": 230.17,
+      "prior": 228.72,
       "trend": [
-        64.0,
         99.14,
         184.37,
         164.35,
         187.39,
         219.61,
         230.17,
-        228.66
+        228.72,
+        217.67
       ],
-      "value": 228.66
+      "value": 217.67
     },
     {
       "format": "int",
       "key": "crm_leads",
       "label": "Leads (CRM)",
-      "prior": 9,
+      "prior": 26,
       "trend": [
-        0,
         1,
         25,
         18,
         18,
         6,
         9,
-        26
+        26,
+        20
       ],
-      "value": 26
+      "value": 20
     },
     {
       "format": "money",
       "key": "cpl",
       "label": "Cost per lead",
-      "prior": 25.57,
+      "prior": 8.8,
       "trend": [
-        null,
         99.14,
         7.37,
         9.13,
         10.41,
         36.6,
         25.57,
-        8.79
+        8.8,
+        10.88
       ],
-      "value": 8.79
+      "value": 10.88
     }
   ],
   "insight": null,
   "insights": {
-    "creative": "The longer free tour video brought 17 leads at $6.52 and the vertical video 11 at $9.32. Both open 'Lombard families have been walking through our doors for nearly 50 years. Come see why,' list two heated pools, eight racquetball courts and a sauna, and offer one free tour with nothing to sign. Worth testing a second long tour video, since the longer cut brought leads cheaper than the short vertical one.",
-    "doing": "CRM leads were 26 at $8.79 each, up from 9 at $25.57 the week before, on $228.66 of spend.",
-    "look_into": "Meta counted 28 leads and the CRM 26, a normal gap. One of the three new free tour video ads spent $13.61 with no leads yet, so it is worth watching next week.",
-    "next": "We recommend keeping the two free tour video ads that brought the leads live, and moving budget away from the third version if it still has no leads next week."
+    "creative": "The long free tour video brought 18 leads at $11.25 and the vertical video 2 at $5.38. Both open 'Lombard families have been walking through our doors for nearly 50 years. Come see why,' list two heated pools, eight racquetball courts and a sauna, and offer one free tour with no membership and nothing to sign. Worth testing a long video that opens on the pools or the sauna instead, since one opening now carries nearly all the leads.",
+    "doing": "CRM leads were 20 at $10.88 each, down from 26 at $8.80 the week before, on $217.67 of spend.",
+    "look_into": "Meta counted 21 leads and the CRM 20, a normal gap. Nearly all the spend, $202.53 of $217.67, went to the long free tour video, so the results rest on one ad.",
+    "next": "We recommend giving the new free tour control ads a full week of spend before judging them against the long video's $11.25 per lead."
   },
   "labels": {},
   "metrics": {
     "appointments_booked": 0,
     "appointments_showed": 0,
     "cost_per_message": null,
-    "cpl": 8.79,
-    "crm_leads": 26,
-    "crm_leads_raw": 26,
-    "ctr": 0.021872,
+    "cpl": 10.88,
+    "crm_leads": 20,
+    "crm_leads_raw": 20,
+    "ctr": 0.023452,
     "google_conversions": 0,
     "google_spend": 0,
-    "impressions": 8824,
-    "landing_page_views": 18,
-    "link_clicks": 193,
+    "impressions": 8656,
+    "landing_page_views": 9,
+    "link_clicks": 203,
     "messages": 0,
     "meta_cpl": null,
     "meta_crm_leads": null,
-    "meta_spend": 228.66,
+    "meta_spend": 217.67,
     "odoo_leads": 0,
     "odoo_order_value": 0,
     "odoo_orders": 0,
     "odoo_won": 0,
-    "pixel_leads": 28,
-    "reach": 4943,
-    "spend": 228.66,
+    "pixel_leads": 21,
+    "reach": 5797,
+    "spend": 217.67,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
@@ -123,26 +124,26 @@
     "appointments_booked": 0,
     "appointments_showed": 0,
     "cost_per_message": null,
-    "cpl": 25.57,
-    "crm_leads": 9,
-    "crm_leads_raw": 9,
-    "ctr": 0.021677,
+    "cpl": 8.8,
+    "crm_leads": 26,
+    "crm_leads_raw": 26,
+    "ctr": 0.021865,
     "google_conversions": 0,
     "google_spend": 0,
-    "impressions": 5628,
-    "landing_page_views": 1,
-    "link_clicks": 122,
+    "impressions": 8827,
+    "landing_page_views": 18,
+    "link_clicks": 193,
     "messages": 0,
     "meta_cpl": null,
     "meta_crm_leads": null,
-    "meta_spend": 230.17,
+    "meta_spend": 228.72,
     "odoo_leads": 0,
     "odoo_order_value": 0,
     "odoo_orders": 0,
     "odoo_won": 0,
-    "pixel_leads": 9,
-    "reach": 3695,
-    "spend": 230.17,
+    "pixel_leads": 28,
+    "reach": 4943,
+    "spend": 228.72,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
@@ -153,26 +154,38 @@
     {
       "ad_name": "[Updated 10.26] 10.22.26-Flex2- Free Tour VIDs Long Vids- Book Now",
       "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
-      "cost_per_result": 6.52,
+      "cost_per_result": 11.25,
       "crm_leads": null,
       "hook": "Video, long cut. Opens 'Lombard families have been walking through our doors for nearly 50 years.' Offer: one free tour, nothing to sign.",
-      "link_clicks": 112,
+      "link_clicks": 186,
       "messages": 0,
-      "pixel_leads": 17,
-      "preview_url": "https://fb.me/1X59z9IQiJPJMnW",
-      "spend": 110.92
+      "pixel_leads": 18,
+      "preview_url": "https://fb.me/2qMnikrhi8a0ymm",
+      "spend": 202.53
     },
     {
       "ad_name": "[Updated 10.26] 10.22.26-Flex3- Free Tour VIDs-9:16- Book Now",
       "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
-      "cost_per_result": 9.32,
+      "cost_per_result": 5.38,
       "crm_leads": null,
       "hook": "Vertical video. Same 'nearly 50 years' opening, lists pools, courts and sauna. Offer: one free tour, no membership needed.",
-      "link_clicks": 72,
+      "link_clicks": 13,
       "messages": 0,
-      "pixel_leads": 11,
-      "preview_url": "https://fb.me/2ByiTn40XfPDkDF",
-      "spend": 102.47
+      "pixel_leads": 2,
+      "preview_url": "https://fb.me/2idpRDgv4Q2wl9x",
+      "spend": 10.76
+    },
+    {
+      "ad_name": "[Updated 10.26] Flex- Free Tour- Book Now",
+      "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
+      "cost_per_result": 2.05,
+      "crm_leads": null,
+      "hook": "Same free tour copy: 'Lombard families have been walking through our doors for nearly 50 years.' Headline 'Tour Glass Court FREE.'",
+      "link_clicks": 2,
+      "messages": 0,
+      "pixel_leads": 1,
+      "preview_url": "https://fb.me/z51xiQEkKyl3msb",
+      "spend": 2.05
     },
     {
       "ad_name": "[Updated 10.26] 10.22.26-Flex4- Free Tour VIDs Long Vids VP Version- Book Now",
@@ -180,35 +193,23 @@
       "cost_per_result": null,
       "crm_leads": null,
       "hook": "Video, second long cut. Same 'nearly 50 years' free tour copy. Headline 'Tour Glass Court FREE.'",
-      "link_clicks": 9,
+      "link_clicks": 2,
       "messages": 0,
       "pixel_leads": 0,
-      "preview_url": "https://fb.me/z1jOqgFI76ClVNv",
-      "spend": 13.61
+      "preview_url": "https://fb.me/2lVit8w2mGW8ORd",
+      "spend": 1.35
     },
     {
-      "ad_name": "[Updated 10.26] Flex- Free Tour- Book Now",
+      "ad_name": "11.3-Control Ad 3- Free Tour- EP 1787939742666782-  Book Now",
       "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
       "cost_per_result": null,
       "crm_leads": null,
-      "hook": "Same free tour copy: 'Lombard families have been walking through our doors for nearly 50 years.' Headline 'Tour Glass Court FREE.'",
+      "hook": "New control ad. Same 'nearly 50 years' free tour copy and headline 'Tour Glass Court FREE.' Offer: one free tour, nothing to sign.",
       "link_clicks": 0,
       "messages": 0,
       "pixel_leads": 0,
-      "preview_url": "https://fb.me/yXAx9Z4caAXp60U",
-      "spend": 1.39
-    },
-    {
-      "ad_name": "Control Ad 2- Free Tour- Iteration- Breakdown Winner- Book Now",
-      "campaign_name": "GCAC |Free Tour| On FB Lead Gen Campaign",
-      "cost_per_result": null,
-      "crm_leads": null,
-      "hook": "Same free tour copy with 'over 40 years' in the opening. Headline 'Tour Glass Court FREE.'",
-      "link_clicks": 0,
-      "messages": 0,
-      "pixel_leads": 0,
-      "preview_url": "https://fb.me/1XllR8tNLn6bAK0",
-      "spend": 0.27
+      "preview_url": "https://fb.me/1W8kXBCQQF6QQlB",
+      "spend": 0.79
     }
   ],
   "unavailable": [
@@ -229,7 +230,7 @@
         "ok": true
       },
       {
-        "detail": "meta 228.66, google 0.00, tiktok 0.00, total 228.66",
+        "detail": "meta 217.67, google 0.00, tiktok 0.00, total 217.67",
         "name": "spend",
         "ok": true
       },
@@ -239,12 +240,12 @@
         "ok": true
       },
       {
-        "detail": "raw 26, counted 26",
+        "detail": "raw 20, counted 20",
         "name": "crm_leads",
         "ok": true
       },
       {
-        "detail": "expected 8.79, got 8.79",
+        "detail": "expected 10.88, got 10.88",
         "name": "cpl",
         "ok": true
       },
@@ -274,7 +275,7 @@
         "ok": true
       },
       {
-        "detail": "raw rows by date: 2026-10-23=7, 2026-10-24=3, 2026-10-25=1, 2026-10-26=4, 2026-10-27=3, 2026-10-28=6, 2026-10-29=3; report has no daily audit rows",
+        "detail": "raw rows by date: 2026-10-30=2, 2026-10-31=5, 2026-11-01=2, 2026-11-02=1, 2026-11-03=5, 2026-11-04=3, 2026-11-05=3; report has no daily audit rows",
         "name": "raw_rows_covered",
         "ok": true
       },
@@ -289,7 +290,7 @@
         "ok": true
       },
       {
-        "detail": "meta pixel leads 28.00, CRM leads 26",
+        "detail": "meta pixel leads 21.00, CRM leads 20",
         "name": "tracking_drift",
         "ok": true
       }
@@ -297,8 +298,8 @@
     "status": "pass"
   },
   "window": {
-    "end": "2026-10-29",
-    "label": "Oct 23 to Oct 29",
-    "start": "2026-10-23"
+    "end": "2026-11-05",
+    "label": "Oct 30 to Nov 5",
+    "start": "2026-10-30"
   }
 }
